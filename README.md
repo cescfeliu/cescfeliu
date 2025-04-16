@@ -6,7 +6,7 @@
 
 - 🎓 I am currently studying **Computer Science Engineer** at UPC
 - 🏡 **Barcelona, Spain**
-- 🏎️ Currently working in Python projects related to F1
+- 🏎️ Currently working on F1 related Python projects
 
 <br>
 
